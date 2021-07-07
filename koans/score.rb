@@ -24,5 +24,3 @@ def score(dice)
   end
   points
 end
-
-print score([1, 1, 1]) # 300
